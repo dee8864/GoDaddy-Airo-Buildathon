@@ -32,7 +32,7 @@ Instead of seeing this as a limitation, I saw it as a challenge. I decided to co
 
 I brainstormed multiple ideas (skill‑swap, lost‑and‑found, event ticket management) but finally settled on the **Local Coupon & Deals Aggregator** – because it had the highest daily utility for my campus.
 
-### 🛠️ The Build (3 Hours – No Code)
+### The Build (3 Hours – No Code)
 I named it **CampusSaver** – a name that instantly conveys value.
 
 1. **Defining the Core Features:**  
@@ -130,4 +130,4 @@ MBA (Business Analytics)
 
 > *Made with ❤️, curiosity, and zero lines of traditional code. Just pure problem‑solving.*
 
-![](https://github.com/dee8864/GoDaddy-Airo-Buildathon/blob/main/%23VISUALS%20CampusSaver.mp4)
+![dashboard preview](https://github.com/dee8864/GoDaddy-Airo-Buildathon/blob/main/%23VISUALS%20CampusSaver.mp4)
