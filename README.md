@@ -130,4 +130,4 @@ MBA (Business Analytics)
 
 > *Made with ❤️, curiosity, and zero lines of traditional code. Just pure problem‑solving.*
 
-![dashboard preview](https://github.com/dee8864/GoDaddy-Airo-Buildathon/blob/main/%23VISUALS%20CampusSaver.mp4)
+![website preview](https://github.com/dee8864/GoDaddy-Airo-Buildathon/blob/main/%23VISUALS%20CampusSaver.mp4)
